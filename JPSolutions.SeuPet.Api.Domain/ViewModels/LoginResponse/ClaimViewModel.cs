@@ -1,0 +1,8 @@
+﻿namespace JPSolutions.SeuPet.Api.Domain.ViewModels.LoginResponse
+{
+    public class ClaimViewModel
+    {
+        public string Value { get; set; }
+        public string Type { get; set; }
+    }
+}
